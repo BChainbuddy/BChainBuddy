@@ -5,15 +5,15 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 ## About Me
 
 - 📚 I'm currently a student of Business Informatics.
-- 🌱 I'm passionate about fitness and basketball.
+- 🌱 I'm passionate about fitness, and when I'm not coding, you'll often find me on the basketball court or at the gym.
 - 🌍 I love to explore new technologies and share my knowledge.
 
 ## My Skills
 
 - 🔧 Solidity
 - 🔧 Python
-- 🔧 Javacript
-- 🔧 Nextjs
+- 🔧 JavaScript
+- 🔧 Next.js
 - 🔧 Hardhat
 - 🔧 SQL
 
@@ -32,9 +32,16 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 
 ## My Projects
 
-- [Project 1](https://github.com/BChainBuddy/LiquidityPool): [This is a cryptocurrency liquidity pool with lots of features such as getting yield, selling and buying the assets, time locks and many more. It was made using hardhat.]
-- [Project 2](https://github.com/BChainBuddy/CharityDao): [This is a charity DAO, which enables the charities to get the funding with little to no intermediate cost fast and reliable. The project is made with hardhat.]
-- [Project 3](https://github.com/BChainBuddy/CoinFlipBackend): [This is a coin flip minigame backend where the users can pay head to head and bet on their games. The project is made with hardhat.]
-- [Project 4](https://github.com/BChainBuddy/CoinFlipFrontend): [This is a coin flip minigame frontend where the users can pay head to head and bet on their games. The project is made with nextjs.]
+- [Project 1](https://github.com/BChainBuddy/LiquidityPool):
+  - **Description:** This cryptocurrency liquidity pool includes features like yield generation, buying/selling assets, time locks, and more. Built using Hardhat.
+
+- [Project 2](https://github.com/BChainBuddy/CharityDao):
+  - **Description:** The Charity DAO empowers charities to receive funding with minimal intermediaries, fast and reliably. Made with Hardhat.
+
+- [Project 3](https://github.com/BChainBuddy/CoinFlipBackend):
+  - **Description:** The coin flip minigame backend allows users to play head-to-head and bet on games. Created with Hardhat.
+
+- [Project 4](https://github.com/BChainBuddy/CoinFlipFrontend):
+  - **Description:** The coin flip minigame frontend enables users to compete and bet on games. Developed with Next.js.
 
 Feel free to reach out and connect. I'm always open to interesting conversations and collaboration opportunities. 😄
