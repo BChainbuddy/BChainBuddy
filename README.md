@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello Fellow Programmers! 👋
 
 I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome to my GitHub profile.
 
@@ -32,8 +32,9 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 
 ## My Projects
 
-- [Project 1](https://github.com/BChainBuddy/project1): [Brief Description]
-- [Project 2](https://github.com/BChainBuddy/project2): [Brief Description]
-- [Project 3](https://github.com/BChainBuddy/project3): [Brief Description]
+- [Project 1](https://github.com/BChainBuddy/LiquidityPool): [This is a cryptocurrency liquidity pool with lots of features such as getting yield, selling and buying the assets, time locks and many more. It was made using hardhat.]
+- [Project 2](https://github.com/BChainBuddy/CharityDao): [This is a charity DAO, which enables the charities to get the funding with little to no intermediate cost fast and reliable. The project is made with hardhat.]
+- [Project 3](https://github.com/BChainBuddy/CoinFlipBackend): [This is a coin flip minigame backend where the users can pay head to head and bet on their games. The project is made with hardhat.]
+- [Project 4](https://github.com/BChainBuddy/CoinFlipFrontend): [This is a coin flip minigame frontend where the users can pay head to head and bet on their games. The project is made with nextjs.]
 
 Feel free to reach out and connect. I'm always open to interesting conversations and collaboration opportunities. 😄
