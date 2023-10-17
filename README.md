@@ -44,4 +44,5 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - [Project 4](https://github.com/BChainBuddy/CoinFlipFrontend):
   - **Description:** The coin flip minigame frontend enables users to compete and bet on games. Developed with Next.js.
 
-Feel free to reach out and connect. I'm always open to interesting conversations and collaboration opportunities. 😄
+
+**Feel free to reach out and connect. I'm always open to interesting conversations and collaboration opportunities.** 😄
