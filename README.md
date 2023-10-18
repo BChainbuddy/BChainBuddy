@@ -32,6 +32,8 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 
 ## My Projects
 
+- 🛠️ currently working on a new project cryptocurrency decentralized exchange, which will enable users to trade their preferred tokens.
+
 - [Project 1](https://github.com/BChainBuddy/LiquidityPool):
   - **Description:** This cryptocurrency liquidity pool includes features like yield generation, buying/selling assets, time locks, and more. Built using Hardhat.
 
