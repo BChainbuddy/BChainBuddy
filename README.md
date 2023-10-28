@@ -36,16 +36,19 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 
 - 🛠️ currently working on a new project cryptocurrency decentralized exchange, which will enable users to trade their preferred tokens.
 
-- [Project 1](https://github.com/BChainBuddy/LiquidityPool):
+- [Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange);
+  - **Description:** This is a cryptocurrency exchange that enables the user to exchange tokens. It is made with nextjs.
+
+- [Liqudity Pool](https://github.com/BChainBuddy/LiquidityPool):
   - **Description:** This cryptocurrency liquidity pool includes features like yield generation, buying/selling assets, time locks, and more. Built using Hardhat.
 
-- [Project 2](https://github.com/BChainBuddy/CharityDao):
+- [Charity DAO](https://github.com/BChainBuddy/CharityDao):
   - **Description:** The Charity DAO empowers charities to receive funding with minimal intermediaries, fast and reliably. Made with Hardhat.
 
-- [Project 3](https://github.com/BChainBuddy/CoinFlipBackend):
+- [CoinFlip Minigame backend](https://github.com/BChainBuddy/CoinFlipBackend):
   - **Description:** The coin flip minigame backend allows users to play head-to-head and bet on games. Created with Hardhat.
 
-- [Project 4](https://github.com/BChainBuddy/CoinFlipFrontend):
+- [CoinFlip Minigame frontend](https://github.com/BChainBuddy/CoinFlipFrontend):
   - **Description:** The coin flip minigame frontend enables users to compete and bet on games. Developed with Next.js.
 
 
