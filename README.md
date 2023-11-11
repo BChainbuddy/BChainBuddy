@@ -34,7 +34,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 
 ## My Projects
 
-- 🛠️ currently making some updates for the repository decentralized Exchange, contributing to open source projects and learning new things 🤓
+- 🛠️ currently updating and maintaining my repositories, participating in the chainlink hackaton, contributing to open source projects and learning new things 🤓
 
 - [Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange);
   - **Description:** This is a cryptocurrency exchange that enables the user to exchange tokens. It is made with nextjs.
