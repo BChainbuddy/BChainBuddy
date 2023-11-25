@@ -22,7 +22,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jaka-potokar-14452627b/)
-- [Portfolio Website](jakapotokar.xyz)
+- [Portfolio Website]((https://jakapotokar.xyz))
 
 ## My GitHub Stats
 
