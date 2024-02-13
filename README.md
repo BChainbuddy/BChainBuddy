@@ -14,6 +14,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - 🔧 Python
 - 🔧 JavaScript
 - 🔧 Next.js
+- 🔧 React
 - 🔧 Hardhat
 - 🔧 PostgreSQL
 - 🔧 Html
