@@ -44,7 +44,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - [Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange);
   - **Description:** This is a cryptocurrency exchange that enables the user to exchange tokens. It is made with nextjs.
 
-- [Liqudity Pool](https://github.com/BChainBuddy/LiquidityPool):
+- [Liquidity Pool](https://github.com/BChainBuddy/LiquidityPool):
   - **Description:** This cryptocurrency liquidity pool includes features like yield generation, buying/selling assets, time locks, and more. Built using Hardhat.
 
 - [Charity DAO](https://github.com/BChainBuddy/CharityDao):
