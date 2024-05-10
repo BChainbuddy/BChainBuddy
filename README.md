@@ -21,6 +21,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - 🔧 Html
 - 🔧 Css
 - 🔧 Expressjs
+- 🔧 Go/Golang 
 
 ## Connect with Me
 
@@ -39,14 +40,20 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 
 - 🛠️ currently updating and maintaining my repositories, participating in hackatons, contributing to open source projects and learning new things 🤓
   
-- [Token Bridge](https://github.com/BChainBuddy/TokenBridge);
-  - **Description:**  This is a cryptocurrency bridge which enables cross-chain transfer of tokens. Created with hardhat.
-  
 - [Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange);
-  - **Description:** This is a cryptocurrency exchange that enables the user to exchange tokens. It is made with nextjs.
+  - **Description:** This is a cryptocurrency exchange that enables the user to exchange tokens, interact with liquidity pools and deploy them. It is made with nextjs.
 
 - [Liquidity Pool](https://github.com/BChainBuddy/LiquidityPool):
   - **Description:** This cryptocurrency liquidity pool includes features like yield generation, buying/selling assets, time locks, and more. Built using Hardhat.
+    
+- [Be Better frontEnd](https://github.com/BChainbuddy/E-commerce_react):
+  - **Description:** This is a frontend for imaginary ecommerce webstore called BeBetter. It provides the user traditional e-commerce functionalities such as item collection, purchasing with stripe, user cart, user profile, account login/registration. It is made with React and React Router.
+
+- [Be Better backEnd](https://github.com/BChainbuddy/E-commerce_express):
+  - **Description:** This is a backend for imaginary ecommerce webstore called BeBetter. The express server is connected to the postgresql database from which it gathers data and sends it to the store. It also utilizes passport for user authentication.
+    
+- [Token Bridge](https://github.com/BChainBuddy/TokenBridge):
+  - **Description:**  This is a cryptocurrency bridge which enables cross-chain transfer of tokens. Created with hardhat.
 
 - [Charity DAO](https://github.com/BChainBuddy/CharityDao):
   - **Description:** The Charity DAO empowers charities to receive funding with minimal intermediaries, fast and reliably. Made with Hardhat.
