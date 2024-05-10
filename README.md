@@ -13,6 +13,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - 🔧 Solidity
 - 🔧 Python
 - 🔧 JavaScript
+- 🔧 TypeScript
 - 🔧 Next.js
 - 🔧 React
 - 🔧 Hardhat
