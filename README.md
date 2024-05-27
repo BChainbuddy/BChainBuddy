@@ -17,11 +17,13 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - 🔧 Next.js
 - 🔧 React
 - 🔧 Hardhat
-- 🔧 PostgreSQL
 - 🔧 Html
 - 🔧 Css
 - 🔧 Expressjs
-- 🔧 Go/Golang 
+- 🔧 Go/Golang
+- 🔧 PostgreSQL
+- 🔧 GraphQL
+- 🔧 MongoDB
 
 ## Connect with Me
 
