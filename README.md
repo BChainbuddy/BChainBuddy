@@ -16,6 +16,7 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - 🔧 TypeScript
 - 🔧 Next.js
 - 🔧 React
+- 🔧 Vuejs
 - 🔧 Hardhat
 - 🔧 Html
 - 🔧 Css
