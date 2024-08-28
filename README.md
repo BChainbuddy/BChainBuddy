@@ -61,11 +61,4 @@ I'm Jaka Potokar, a Business Informatics student based in 📍Slovenia. Welcome 
 - [Charity DAO](https://github.com/BChainBuddy/CharityDao):
   - **Description:** The Charity DAO empowers charities to receive funding with minimal intermediaries, fast and reliably. Made with Hardhat.
 
-- [CoinFlip Minigame backend](https://github.com/BChainBuddy/CoinFlipBackend):
-  - **Description:** The coin flip minigame backend allows users to play head-to-head and bet on games. Created with Hardhat.
-
-- [CoinFlip Minigame frontend](https://github.com/BChainBuddy/CoinFlipFrontend):
-  - **Description:** The coin flip minigame frontend enables users to compete and bet on games. Developed with Next.js.
-
-
 *Feel free to reach out and connect. I'm always open to interesting conversations and collaboration opportunities.* 😄
