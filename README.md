@@ -8,6 +8,8 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
 - 💪 **Passion**: When I’m not coding, you’ll find me at the gym or on the basketball court.
 - 🌐 **Tech Explorer**: I love discovering and working with new technologies and sharing my knowledge with others.
 
+<br/>
+
 ## 🛠️ My Skills
 
 <p align="center">
@@ -28,35 +30,52 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="35"/>
 </p>
 
-## 📊 My GitHub Stats
+<br/>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BChainBuddy)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub Activity & Stats
 
-## 🔝 My Top Languages
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BChainBuddy&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BChainBuddy&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats"/>
+  </a>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BChainBuddy)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ## 🚀 My Projects
 
 - 🛠️ **Ongoing Work**: I’m continuously updating my repositories, participating in hackathons, contributing to open-source projects, and expanding my knowledge. 🤓
 
-- **[Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange)**
-  - A full-featured cryptocurrency exchange enabling seamless token swaps, liquidity pool interactions, and pool deployments. Built with **Next.js**.
+- **[Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange)**  
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
+  - A full-featured cryptocurrency exchange enabling seamless token swaps, liquidity pool interactions, and pool deployments.
 
-- **[Liquidity Pool](https://github.com/BChainBuddy/LiquidityPool)**
-  - A robust cryptocurrency liquidity pool offering yield generation, asset trading, and time locks. Developed with **Hardhat**.
+- **[Liquidity Pool](https://github.com/BChainBuddy/LiquidityPool)**  
+  <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
+  - A robust cryptocurrency liquidity pool offering yield generation, asset trading, and time locks.
 
-- **[Be Better - Frontend](https://github.com/BChainbuddy/E-commerce_react)**
-  - Frontend for the BeBetter e-commerce platform, featuring item browsing, shopping carts, user profiles, and Stripe-powered payments. Created with **React** and **React Router**.
+- **[Be Better - Frontend](https://github.com/BChainbuddy/E-commerce_react)**  
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white" height="20"/>
+  - Frontend for the BeBetter e-commerce platform, featuring item browsing, shopping carts, user profiles, and Stripe-powered payments.
 
-- **[Be Better - Backend](https://github.com/BChainbuddy/E-commerce_express)**
-  - Backend server for the BeBetter platform, securely managing user data, authentication, and product information with **Express** and **PostgreSQL**.
+- **[Be Better - Backend](https://github.com/BChainbuddy/E-commerce_express)**  
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" height="20"/>
+  - Backend server for the BeBetter platform, securely managing user data, authentication, and product information.
 
-- **[Token Bridge](https://github.com/BChainBuddy/TokenBridge)**
-  - A cross-chain bridge enabling token transfers between networks. Built with **Hardhat**.
+- **[Token Bridge](https://github.com/BChainBuddy/TokenBridge)**  
+  <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
+  - A cross-chain bridge enabling token transfers between networks.
 
-- **[Charity DAO](https://github.com/BChainBuddy/CharityDao)**
-  - A decentralized platform empowering charities to receive funds transparently with minimal intermediaries. Created with **Hardhat**.
+- **[Charity DAO](https://github.com/BChainBuddy/CharityDao)**  
+  <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
+  - A decentralized platform empowering charities to receive funds transparently with minimal intermediaries.
+
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -69,4 +88,6 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
   </a>
 </p>
 
+<p align="center">
 Feel free to reach out – I’m always up for engaging discussions and collaborations! 😄
+</p>
