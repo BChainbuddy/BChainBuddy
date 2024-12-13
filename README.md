@@ -5,7 +5,7 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
 ## 🌟 About Me
 
 - 🎓 **Education**: Master's student of **Business Informatics**.
-- 💪 **Passion**: When I’m not coding, you’ll find me at the gym or on the basketball court.
+- 💪 **Passion**: When I’m not coding or learning about tech, you’ll find me at the gym or on the basketball court.
 - 🌐 **Tech Explorer**: I love discovering and working with new technologies and sharing my knowledge with others.
 
 <br/>
