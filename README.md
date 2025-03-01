@@ -52,7 +52,7 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
 - 🛠️ **Ongoing Work**: I’m continuously updating my repositories, participating in hackathons, contributing to open-source projects, and expanding my knowledge. 🤓
 
 - **[DevQuiz](https://github.com/BChainbuddy/DevelopmentQuiz)**  
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-OpenAI-343434?logo=openai&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-OpenAI-343434?logo=openai&logoColor=white" height="20"/><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
   - DevQuiz is a web-based multiple-choice quiz game that tests your knowledge of web development. Built with Next.js and the OpenAI API, it lets you log in with your Gmail account, pick the correct answers to randomly generated questions, track your wins and losses, and see how you rank against other players.
 
 - **[Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange)**  
