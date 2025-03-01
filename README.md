@@ -19,6 +19,7 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="35"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="35"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="35"/>
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black" alt="React Native" height="35"/>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" height="35"/>
   <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" alt="Hardhat" height="35"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="35"/>
@@ -41,15 +42,18 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BChainBuddy&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BChainBuddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-
 <br/>
 
 ## 🚀 My Projects
 
 - 🛠️ **Ongoing Work**: I’m continuously updating my repositories, participating in hackathons, contributing to open-source projects, and expanding my knowledge. 🤓
+
+- **[DevQuiz](https://github.com/BChainbuddy/DevelopmentQuiz)**  
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-OpenAI-343434?logo=openai&logoColor=white" height="20"/>
+  - DevQuiz is a web-based multiple-choice quiz game that tests your knowledge of web development. Built with Next.js and the OpenAI API, it lets you log in with your Gmail account, pick the correct answers to randomly generated questions, track your wins and losses, and see how you rank against other players.
 
 - **[Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange)**  
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
