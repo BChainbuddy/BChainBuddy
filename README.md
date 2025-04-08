@@ -20,7 +20,6 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="35"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="35"/>
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black" alt="React Native" height="35"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" height="35"/>
   <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" alt="Hardhat" height="35"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="35"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="35"/>
