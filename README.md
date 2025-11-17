@@ -57,7 +57,7 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
 - **[Liquidity Pool](https://github.com/BChainBuddy/LiquidityPool)**  
   <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
   - A robust cryptocurrency liquidity pool offering yield generation, asset trading, and time locks.
-  - 
+    
 - **[Token Bridge](https://github.com/BChainBuddy/TokenBridge)**  
   <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
   - A cross-chain bridge enabling token transfers between networks.
