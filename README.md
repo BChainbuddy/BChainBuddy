@@ -54,22 +54,10 @@ I'm **Jaka Potokar**, a Business Informatics student based in 📍 **Slovenia**.
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-OpenAI-343434?logo=openai&logoColor=white" height="20"/><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
   - DevQuiz is a web-based multiple-choice quiz game that tests your knowledge of web development. Built with Next.js and the OpenAI API, it lets you log in with your Gmail account, pick the correct answers to randomly generated questions, track your wins and losses, and see how you rank against other players.
 
-- **[Decentralized Exchange](https://github.com/BChainBuddy/decentralizedExchange)**  
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
-  - A full-featured cryptocurrency exchange enabling seamless token swaps, liquidity pool interactions, and pool deployments.
-
 - **[Liquidity Pool](https://github.com/BChainBuddy/LiquidityPool)**  
   <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
   - A robust cryptocurrency liquidity pool offering yield generation, asset trading, and time locks.
-
-- **[Be Better - Frontend](https://github.com/BChainbuddy/E-commerce_react)**  
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white" height="20"/>
-  - Frontend for the BeBetter e-commerce platform, featuring item browsing, shopping carts, user profiles, and Stripe-powered payments.
-
-- **[Be Better - Backend](https://github.com/BChainbuddy/E-commerce_express)**  
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" height="20"/>
-  - Backend server for the BeBetter platform, securely managing user data, authentication, and product information.
-
+  - 
 - **[Token Bridge](https://github.com/BChainBuddy/TokenBridge)**  
   <img src="https://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>
   - A cross-chain bridge enabling token transfers between networks.
