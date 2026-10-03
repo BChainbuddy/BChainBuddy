@@ -1,84 +1,183 @@
-write me better readme.md then # Hello, Fellow Programmers! 👋\
-\
-I'm \*\*Jaka Potokar\*\*, a Business Informatics student based in 📍 \*\*Slovenia\*\*. Welcome to my GitHub profile, where I share my passion for technology, fitness, and coding! 🚀\
-\
-\## 🌟 About Me\
-\
-\- 🎓 \*\*Education\*\*: Master's student of \*\*Business Informatics\*\*.\
-\- 💪 \*\*Passion\*\*: When I’m not coding or learning about tech, you’ll find me at the gym or on the basketball court.\
-\- 🌐 \*\*Tech Explorer\*\*: I love discovering and working with new technologies and sharing my knowledge with others.\
-\
-\<br/>\
-\
-\## 🛠️ My Skills\
-\
-\<p align="center">\
-&#x20; \<img src="https\://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black" alt="React Native" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" alt="Hardhat" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Go" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" height="35"/>\
-&#x20; \<img src="https\://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="35"/>\
-\</p>\
-\
-\<br/>\
-\
-\## 📈 GitHub Activity & Stats\
-\
-\<p align="center">\
-&#x20; \<a href="https\://git.io/streak-stats">\
-&#x20;   \<img src="https\://streak-stats.demolab.com?user=BChainBuddy&theme=radical&hide_border=true" alt="GitHub Streak"/>\
-&#x20; \</a>\
-\</p>\
-\<p align="center">\
-&#x20; \<a href="https\://github.com/anuraghazra/github-readme-stats">\
-&#x20;   \<img src="https\://github-readme-stats.vercel.app/api/top-langs/?username=BChainBuddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />\
-&#x20; \</a>\
-\</p>\
-\<br/>\
-\
-\## 🚀 My Projects\
-\
-\- 🛠️ \*\*Ongoing Work\*\*: I’m continuously updating my repositories, participating in hackathons, contributing to open-source projects, and expanding my knowledge. 🤓\
-\
-\- \*\*[DevQuiz]\(https\://github.com/BChainbuddy/DevelopmentQuiz)\*\*  \
-&#x20; \<img src="https\://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="20"/> \<img src="https\://img.shields.io/badge/-OpenAI-343434?logo=openai&logoColor=white" height="20"/>\<img src="https\://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>\
-&#x20; \- DevQuiz is a web-based multiple-choice quiz game that tests your knowledge of web development. Built with Next.js and the OpenAI API, it lets you log in with your Gmail account, pick the correct answers to randomly generated questions, track your wins and losses, and see how you rank against other players.\
-\
-\- \*\*[Liquidity Pool]\(https\://github.com/BChainBuddy/LiquidityPool)\*\*  \
-&#x20; \<img src="https\://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> \<img src="https\://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>\
-&#x20; \- A robust cryptocurrency liquidity pool offering yield generation, asset trading, and time locks.\
-&#x20;   \
-\- \*\*[Token Bridge]\(https\://github.com/BChainBuddy/TokenBridge)\*\*  \
-&#x20; \<img src="https\://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> \<img src="https\://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>\
-&#x20; \- A cross-chain bridge enabling token transfers between networks.\
-\
-\- \*\*[Charity DAO]\(https\://github.com/BChainBuddy/CharityDao)\*\*  \
-&#x20; \<img src="https\://img.shields.io/badge/-Hardhat-FF8C00?logo=ethereum&logoColor=white" height="20"/> \<img src="https\://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="20"/>\
-&#x20; \- A decentralized platform empowering charities to receive funds transparently with minimal intermediaries.\
-\
-\<br/>\
-\
-\## 🌐 Connect with Me\
-\
-\<p align="center">\
-&#x20; \<a href="https\://www\.linkedin.com/in/jaka-potokar-14452627b/" target="\_blank">\
-&#x20;   \<img src="https\://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" height="40"/>\
-&#x20; \</a>\
-&#x20; \<a href="https\://jakapotokar.xyz" target="\_blank">\
-&#x20;   \<img src="https\://img.shields.io/badge/-Portfolio-000000?logo=web&logoColor=white&style=flat-square" alt="Portfolio" height="40"/>\
-&#x20; \</a>\
-\</p>\
-\
-\<p align="center">\
-Feel free to reach out – I’m always up for engaging discussions and collaborations! 😄\
-\</p>\
+<div align="center">
+
+# Hey, I'm Jaka Potokar 👋
+
+### Full-Stack Developer · Technical Solutions · Cloud & AI
+
+I build production web and mobile applications, backend systems, APIs, and technical products.
+
+My background combines **software engineering, business, customer-facing work, and team leadership** — with a growing focus on **Solutions Engineering, Technical Consulting, Cloud Architecture, and AI solutions**.
+
+<br/>
+
+<a href="https://jakapotokar.xyz">
+  <img src="https://img.shields.io/badge/Portfolio-jakapotokar.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jaka-potokar-14452627b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jaka%20Potokar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full-stack developer working across **frontend, backend, APIs, databases, and mobile**
+- 🧩 Interested in solving problems where **technology meets business**
+- ☁️ Currently expanding into **cloud architecture and technical solutions**
+- 🤖 Exploring **AI-powered products, agents, and LLM integrations**
+- 🚀 Experience building products in **startup and enterprise environments**
+- 🤝 Background in **sales, leadership, customer communication, and team management**
+- 🎓 Master's in **Business Informatics**
+- 🏋️ Outside tech: gym, basketball, travel, and probably too much coffee
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+
+<br/><br/>
+
+### Frontend & Mobile
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br/><br/>
+
+### Backend & Data
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+<br/><br/>
+
+### Infrastructure & Tools
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [TradeForge](https://github.com/BChainbuddy/PositionManager)
+
+Full-stack automated decentralized trading platform.
+
+**Architecture includes:**
+
+- Next.js frontend
+- Node.js automation service
+- Solidity smart contracts
+- GraphQL / The Graph indexing
+- External market integrations
+- Automated trade execution
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 [DevQuiz](https://github.com/BChainbuddy/DevelopmentQuiz)
+
+AI-powered web development quiz platform.
+
+**Includes:**
+
+- AI-generated questions
+- Google authentication
+- PostgreSQL persistence
+- User profiles
+- Competitive leaderboard
+- Production deployment
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
+
+<br/>
+
+[🌐 Live Demo](https://developmentquiz.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ [Golang Blockchain](https://github.com/BChainbuddy/Golang_Blockchain)
+
+Proof-of-work blockchain built in Go to explore lower-level distributed system concepts.
+
+**Explores:**
+
+- Blocks & hashing
+- Proof-of-work
+- Transactions
+- Wallets
+- Blockchain state
+- Server architecture
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio](https://github.com/BChainbuddy/PortfolioWebsiteNextjs)
+
+Personal developer portfolio showcasing professional experience, projects, and technical work.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+<br/>
+
+[🌐 jakapotokar.xyz](https://jakapotokar.xyz)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ☁️ What I'm Focused On Now
+
+```text
+Cloud Architecture      ███████████████░░░░░
+Solutions Engineering   ████████████████░░░░
+AI / LLM Applications   ██████████████░░░░░░
+Distributed Systems     █████████████░░░░░░░
+Technical Consulting    ████████████████░░░░
