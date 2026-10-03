@@ -169,14 +169,3 @@ Personal developer portfolio showcasing professional experience, projects, and t
 </td>
 </tr>
 </table>
-
----
-
-## ☁️ What I'm Focused On Now
-
-```text
-Cloud Architecture      ███████████████░░░░░
-Solutions Engineering   ████████████████░░░░
-AI / LLM Applications   ██████████████░░░░░░
-Distributed Systems     █████████████░░░░░░░
-Technical Consulting    ████████████████░░░░
